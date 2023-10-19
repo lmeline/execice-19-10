@@ -10,18 +10,19 @@ h1 {
 h3 {
     color: black;
 }
-p{ 
-
-}
 
 .gras{
  font-weight: bold;   
 }
 .fonddecouleur1{
-    background-color: rgb(190, 182, 182);
+    background-color: rgb(190, 182, 182); padding: 1px
 }
 
 .fonddecouleur2{
-    background-color: rgb(228, 193, 228);
+    background-color: rgb(228, 193, 228); padding: 1px
+    ;
 
+}
+img {
+    width: 60%;
 }

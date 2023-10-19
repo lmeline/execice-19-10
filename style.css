@@ -8,7 +8,7 @@ h1 {
     color: darkblue;
 }
 h3 {
-    color: darkgray;
+    color: black;
 }
 p{ 
 
@@ -16,4 +16,12 @@ p{
 
 .gras{
  font-weight: bold;   
+}
+.fonddecouleur1{
+    background-color: rgb(190, 182, 182);
+}
+
+.fonddecouleur2{
+    background-color: rgb(228, 193, 228);
+
 }
